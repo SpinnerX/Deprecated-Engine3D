@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/aaronher/Desktop/Engine3D-Sandbox/Debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -isystem /usr/local/include -isystem /opt/homebrew/include -isystem /opt/homebrew/lib -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks  -fsanitize=address -o CMakeFiles/Sandbox.dir/Application.cpp.o -c /Users/aaronher/Desktop/Engine3D-Sandbox/Application.cpp",
+  "file": "/Users/aaronher/Desktop/Engine3D-Sandbox/Application.cpp",
+  "output": "CMakeFiles/Sandbox.dir/Application.cpp.o"
+},
+{
+  "directory": "/Users/aaronher/Desktop/Engine3D-Sandbox/Debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -isystem /usr/local/include -isystem /opt/homebrew/include -isystem /opt/homebrew/lib -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks  -fsanitize=address -o CMakeFiles/Sandbox.dir/ExampleLayer2D.cpp.o -c /Users/aaronher/Desktop/Engine3D-Sandbox/ExampleLayer2D.cpp",
+  "file": "/Users/aaronher/Desktop/Engine3D-Sandbox/ExampleLayer2D.cpp",
+  "output": "CMakeFiles/Sandbox.dir/ExampleLayer2D.cpp.o"
+}
+]

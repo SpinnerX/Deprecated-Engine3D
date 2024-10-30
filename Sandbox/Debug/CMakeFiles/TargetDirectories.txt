@@ -1,0 +1,3 @@
+/Users/aaronher/Desktop/Engine3D-Sandbox/Debug/CMakeFiles/Sandbox.dir
+/Users/aaronher/Desktop/Engine3D-Sandbox/Debug/CMakeFiles/edit_cache.dir
+/Users/aaronher/Desktop/Engine3D-Sandbox/Debug/CMakeFiles/rebuild_cache.dir
